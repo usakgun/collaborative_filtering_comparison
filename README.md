@@ -23,6 +23,3 @@ The algorithms were evaluated on a test set (25% of the data). The Item-Based ap
 * Pandas
 * Scikit-Learn (Pairwise Distances, Mean Squared Error)
 * NumPy
-
----
-**Author:** Umut Sabri Akgün
